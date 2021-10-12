@@ -1,0 +1,12 @@
+{
+  "aps_token": "HycFDLB2vcJuzSuWHAssU",
+  "token": "1c8d10f454ab49e3af4406f44257c88f",
+  "mode": "false",
+  "links": {
+    "1": "https://google.com"
+  },
+  "non_organic_links": {
+    "keyname1": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}"
+  },
+  "countries": "PT_N"
+}
